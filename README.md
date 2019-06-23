@@ -4,7 +4,7 @@
 3
 ​
 4
-[![NPM Version][npm-image]][npm-url]
+[![Python Version][npm-image]][npm-url]
 5
 [![Build Status][travis-image]][travis-url]
 6
